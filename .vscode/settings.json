@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "cmath": "cpp",
+        "cstdarg": "cpp",
+        "cstddef": "cpp",
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "cstring": "cpp",
+        "ctime": "cpp",
+        "cwchar": "cpp",
+        "*.ipp": "cpp",
+        "cctype": "cpp",
+        "csignal": "cpp",
+        "cwctype": "cpp",
+        "thread": "cpp",
+        "csetjmp": "cpp",
+        "clocale": "cpp"
+    }
+}
