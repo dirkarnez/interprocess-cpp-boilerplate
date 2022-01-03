@@ -7,3 +7,9 @@ Using [svebert/InterprocessMsg](https://github.com/svebert/InterprocessMsg)
 
 ### Boost setup
 - follow [dirkarnez/boost-playground](https://github.com/dirkarnez/boost-playground)
+
+### Usage
+- `interprocess-cpp-boilerplate.exe ["listener" | "publisher"]`
+### Outcome
+- `listener` listens to `default` channel
+  - `listener` only receives message after `publisher` executable started
