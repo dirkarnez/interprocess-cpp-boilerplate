@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.18)
 
 # Yes, should be 11
 set(CMAKE_CXX_STANDARD 11)
-project(boost-playground)
+project(interprocess-cpp-boilerplate)
 
 set(Boost_NO_SYSTEM_PATHS TRUE)
 set(Boost_USE_STATIC_LIBS TRUE)
